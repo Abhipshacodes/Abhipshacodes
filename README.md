@@ -24,4 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhipshacodes&show_icons=true&locale=en" alt="abhipshacodes" /></p>
 
+<div align="center">
+  <img src="https://github.com/Abhipshacodes/Abhipshacodes/blob/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
 
