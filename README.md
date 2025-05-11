@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhipsha Mohanty</h1>
 <h3 align="center">A detail-oriented data analyst from India, passionate about uncovering insights through data visualization, statistical analysis, and storytelling with numbers.Enthusiastic about analyzing business processes and delivering data-driven solutions to enhance decision-making.</h3>
 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/021c7002-a429-4806-887a-75ea3c56f32d" alt="Image" />
+</div>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhipshacodes&label=Profile%20views&color=0e75b6&style=flat" alt="abhipshacodes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhipshacodes" alt="abhipshacodes" /></a> </p>
