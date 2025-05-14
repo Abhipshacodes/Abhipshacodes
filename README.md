@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhipsha Mohanty</h1>
-<h3 align="center">A detail-oriented data analyst from India, passionate about uncovering insights through data visualization, statistical analysis, and storytelling with numbers.Enthusiastic about analyzing business processes and delivering data-driven solutions to enhance decision-making.</h3>
+<h3 align="center">A detail-oriented data analyst from India, passionate about uncovering insights through data visualization, statistical analysis, and storytelling with numbers. Enthusiastic about analyzing business processes and delivering data-driven solutions to enhance decision-making.</h3>
 
 
 <div align="center">
